@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{083FC9EB-3048-490F-971D-1CC1E48F68F4}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ClassesExercise PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClassesExercise/Car.cs">
+    <Files>
+      <File FileName="ClassesExercise/Program.cs" Line="15" Column="51" />
+      <File FileName="ClassesExercise/Car.cs" Line="26" Column="12" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ClassesExercise" expanded="True">
+            <Node name="ClassesExercise" expanded="True">
+              <Node name="Car.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

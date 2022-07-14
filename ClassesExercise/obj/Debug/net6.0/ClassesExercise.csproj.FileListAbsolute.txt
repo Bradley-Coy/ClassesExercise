@@ -1,0 +1,15 @@
+/Users/bradleycoy/Projects/ClassesExercise/ClassesExercise/obj/Debug/net6.0/ClassesExercise.csproj.AssemblyReference.cache
+/Users/bradleycoy/Projects/ClassesExercise/ClassesExercise/obj/Debug/net6.0/ClassesExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bradleycoy/Projects/ClassesExercise/ClassesExercise/obj/Debug/net6.0/ClassesExercise.AssemblyInfoInputs.cache
+/Users/bradleycoy/Projects/ClassesExercise/ClassesExercise/obj/Debug/net6.0/ClassesExercise.AssemblyInfo.cs
+/Users/bradleycoy/Projects/ClassesExercise/ClassesExercise/obj/Debug/net6.0/ClassesExercise.csproj.CoreCompileInputs.cache
+/Users/bradleycoy/Projects/ClassesExercise/ClassesExercise/bin/Debug/net6.0/ClassesExercise
+/Users/bradleycoy/Projects/ClassesExercise/ClassesExercise/bin/Debug/net6.0/ClassesExercise.deps.json
+/Users/bradleycoy/Projects/ClassesExercise/ClassesExercise/bin/Debug/net6.0/ClassesExercise.runtimeconfig.json
+/Users/bradleycoy/Projects/ClassesExercise/ClassesExercise/bin/Debug/net6.0/ClassesExercise.dll
+/Users/bradleycoy/Projects/ClassesExercise/ClassesExercise/bin/Debug/net6.0/ClassesExercise.pdb
+/Users/bradleycoy/Projects/ClassesExercise/ClassesExercise/obj/Debug/net6.0/ClassesExercise.dll
+/Users/bradleycoy/Projects/ClassesExercise/ClassesExercise/obj/Debug/net6.0/refint/ClassesExercise.dll
+/Users/bradleycoy/Projects/ClassesExercise/ClassesExercise/obj/Debug/net6.0/ClassesExercise.pdb
+/Users/bradleycoy/Projects/ClassesExercise/ClassesExercise/obj/Debug/net6.0/ClassesExercise.genruntimeconfig.cache
+/Users/bradleycoy/Projects/ClassesExercise/ClassesExercise/obj/Debug/net6.0/ref/ClassesExercise.dll
